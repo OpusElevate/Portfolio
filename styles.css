@@ -10,7 +10,7 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
-    background-color: var(--light-gray);
+    background-color: var(black);
     color: var(--text-color);
     line-height: 1.6;
     margin: 0;
